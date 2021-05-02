@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sitepen-clone/static/css/main.d4083bed.chunk.css",
+    "main.js": "/Sitepen-clone/static/js/main.2e870cbd.chunk.js",
+    "main.js.map": "/Sitepen-clone/static/js/main.2e870cbd.chunk.js.map",
+    "runtime-main.js": "/Sitepen-clone/static/js/runtime-main.3a1e444f.js",
+    "runtime-main.js.map": "/Sitepen-clone/static/js/runtime-main.3a1e444f.js.map",
+    "static/js/2.055bba67.chunk.js": "/Sitepen-clone/static/js/2.055bba67.chunk.js",
+    "static/js/2.055bba67.chunk.js.map": "/Sitepen-clone/static/js/2.055bba67.chunk.js.map",
+    "index.html": "/Sitepen-clone/index.html",
+    "static/css/main.d4083bed.chunk.css.map": "/Sitepen-clone/static/css/main.d4083bed.chunk.css.map",
+    "static/js/2.055bba67.chunk.js.LICENSE.txt": "/Sitepen-clone/static/js/2.055bba67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a1e444f.js",
+    "static/js/2.055bba67.chunk.js",
+    "static/css/main.d4083bed.chunk.css",
+    "static/js/main.2e870cbd.chunk.js"
+  ]
+}
